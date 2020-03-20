@@ -1,0 +1,7 @@
+ if you have issues with NPM , 
+ delete your package-lock.json file, node_modules directory 
+ and run npm cache clean -f. 
+ 
+ Then run a new npm install as a regular user. 
+ 
+ Afterwards, run an npm start again to install the Expo Cli tools.
