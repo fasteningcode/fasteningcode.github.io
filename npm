@@ -9,7 +9,7 @@
  
  Afterwards, run an npm start again to install the Expo Cli tools.
  
- ##To Uninstall a Global Package
+ ## To Uninstall a Global Package
  ```
  npm uninstall -g jshint
 ```
