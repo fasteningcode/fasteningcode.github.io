@@ -11,6 +11,12 @@ tnsrun ios/android --bundle
 ```
 # ngOnChanges
 will excute if one of the value changes
+```
+ngOnChanges(changes : SimpleChanges){
+ if(changes.variable){
+ // execute logic
+}
+```
 
 # Unlock *ngIf 
 to unlock ngIf - need to add NativeScriptCommonModule in the module where the component is declared
