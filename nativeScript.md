@@ -23,3 +23,6 @@ to unlock ngIf - need to add NativeScriptCommonModule in the module where the co
 
 # ngClass  not-settable
 for conditionally setting the styling for same type of elements. for exampele setting the days for calendar - not clickable
+
+# Map on rxjs operators 
+to interpret the data in the format we need 
