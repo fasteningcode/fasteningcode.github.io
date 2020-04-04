@@ -9,7 +9,8 @@
 tns platform clean ios/android
 tnsrun ios/android --bundle
 ```
-
+# ngOnChanges
+will excute if one of the value changes
 
 # Unlock *ngIf 
 to unlock ngIf - need to add NativeScriptCommonModule in the module where the component is declared
